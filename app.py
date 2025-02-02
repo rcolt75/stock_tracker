@@ -8,7 +8,6 @@ import time
 import numpy as np
 from plotly.subplots import make_subplots
 import requests
-from datetime import datetime
 
 # Define popular stocks
 POPULAR_STOCKS = {
